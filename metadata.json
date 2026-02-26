@@ -1,0 +1,5 @@
+{
+  "name": "VertexChart",
+  "description": "Professional AI-powered trading chart analysis using SMC, SNR, and Macro fundamentals.",
+  "requestFramePermissions": ["camera"]
+}
